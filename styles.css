@@ -1,0 +1,10 @@
+* {
+  background: rgb(152, 216, 238);
+  text-align: center;
+}
+
+.calculator {
+  display: grid;
+  background: red;
+  padding: 5%;
+}
